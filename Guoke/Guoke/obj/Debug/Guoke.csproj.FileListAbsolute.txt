@@ -1,1 +1,17 @@
 E:\Guoke\Guoke\Guoke\obj\Debug\Guoke.csprojResolveAssemblyReference.cache
+F:\Github\guoke\Guoke\Guoke\bin\Debug\Guoke.dll.config
+F:\Github\guoke\Guoke\Guoke\bin\Debug\Guoke.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\Guoke.pdb
+F:\Github\guoke\Guoke\Guoke\bin\Debug\EntityFramework.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\MvcPager.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\Newtonsoft.Json.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\System.Web.Mvc.dll
+F:\Github\guoke\Guoke\Guoke\bin\Debug\EntityFramework.xml
+F:\Github\guoke\Guoke\Guoke\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\guoke\Guoke\Guoke\bin\Debug\Newtonsoft.Json.xml
+F:\Github\guoke\Guoke\Guoke\bin\Debug\System.Web.Mvc.xml
+F:\Github\guoke\Guoke\Guoke\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+F:\Github\guoke\Guoke\Guoke\obj\Debug\Guoke.csprojResolveAssemblyReference.cache
+F:\Github\guoke\Guoke\Guoke\obj\Debug\Guoke.dll
+F:\Github\guoke\Guoke\Guoke\obj\Debug\Guoke.pdb
